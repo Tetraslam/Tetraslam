@@ -12,7 +12,7 @@ I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-worl
 
 [![Twitter](https://img.shields.io/twitter/follow/tetraslam?style=social)](https://twitter.com/tetraslam)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/TheWhiteRyder?style=social)](https://reddit.com/u/TheWhiteRyder)
-
+[![Discord](https://img.shields.io/discord/844571818354671676?style=flat-square)](https://discord.gg/e5WeEVePHt)
 
 <!-- Working GIF -->
 <img src="https://i.imgur.com/bKDhCOB.png" alt="dev_object" align="right" width="500" height="250" />
