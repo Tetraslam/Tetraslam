@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Tetraslam/Tetraslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
@@ -26,7 +11,7 @@ I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-worl
 <!-- Your badges -->
 
 [![Twitter](https://img.shields.io/twitter/follow/tetraslam?style=social)](https://twitter.com/tetraslam)
-
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/TheWhiteRyder?style=social)](https://reddit.com/u/TheWhiteRyder)
 
 
 <!-- Working GIF -->
@@ -61,35 +46,20 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 
-<code><a href = "https://www.w3schools.com/html/ "><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a?</code>
+<code><a href = "https://www.w3schools.com/html/ "><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a></code>
 </p>
 
- <code><a href = "https://en.wikipedia.org/wiki/Command-line_interface "><img height="40" src="https://findicons.com/files/icons/127/sleek_xp_software/300/command_prompt.png"></a?</code>
+ <code><a href = "https://en.wikipedia.org/wiki/Command-line_interface "><img height="40" src="https://findicons.com/files/icons/127/sleek_xp_software/300/command_prompt.png"></a></code>
 </p>
   
- <code><a href = "https://flask.palletsprojects.com/ "><img height="40" src="https://s.clipartkey.com/mpngs/s/145-1450089_python-flask-icon.png"></a?</code>
+ <code><a href = "https://flask.palletsprojects.com/ "><img height="40" src="https://s.clipartkey.com/mpngs/s/145-1450089_python-flask-icon.png"></a></code>
 </p>
   
   
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 
-
-
-
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+- 🔭 I’m currently working on [SaberAPI](https://github.com/tetraslam/saberapi)
+- 💬 Ask me about the Bad Batch! I'm a diehard Star Wars fan and will never miss an opportunity to talk about SW content.
+- 📫 How to reach me: DM me on my [Reddit](https://reddit.com/u/TheWhiteRyder)!
+- 😄 Pronouns: he/him
