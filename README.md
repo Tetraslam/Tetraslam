@@ -28,7 +28,7 @@ I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-worl
 Since the world is in quarantine:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two days off a week. ) 
-* Read:newspaper: Dev API docs everyday
+* Read:newspaper: Dev and API docs everyday
 * Avoid spending too much time on League of Legends ☠️
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
