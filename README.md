@@ -25,37 +25,30 @@ I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-worl
 
 <!-- Your badges -->
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTetraslam)](https://twitter.com/tetraslam)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
+[![Twitter](https://img.shields.io/twitter/follow/tetraslam?style=social)](https://twitter.com/tetraslam)
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://i.imgur.com/bKDhCOB.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
+* Learning API development with flask
+* Learning the `rich` library's intricacies
+* Looking forward to take my text adventure further in the future
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since the world is in quarantine:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
+* Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two days off a week. ) 
+* Read:newspaper: Dev API docs everyday
+* Avoid spending too much time on League of Legends ☠️
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=tetraslam&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
