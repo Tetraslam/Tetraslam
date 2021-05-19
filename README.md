@@ -37,7 +37,7 @@ Since the world is in quarantine:earth_asia:, and I’m having lots of spare tim
     <img width="500" height="auto" align="right" alt="Tetraslam's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=tetraslam&show_icons=true&theme=algolia&count_private=true&exclude_repo=github-slideshow" />
 <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetraslam&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetraslam&layout=compact&exclude_repo=github-slideshow" />
 
   </a>
  <!-- icons -->
