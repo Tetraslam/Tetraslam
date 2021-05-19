@@ -17,7 +17,7 @@ I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-worl
 [![Discord](https://img.shields.io/discord/844571818354671676?style=flat-square)](https://discord.gg/e5WeEVePHt)
 
 <!-- Working GIF -->
-<img src="https://i.imgur.com/gsNu91z.png" alt="dev_object" align="right" width="450" height="250" />
+<img src="https://i.imgur.com/gsNu91z.png" alt="dev_object" align="right" width="500" height="210" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning API development with flask
