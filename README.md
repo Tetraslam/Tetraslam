@@ -33,12 +33,12 @@ Since the world is in quarantine:earth_asia:, and I’m having lots of spare tim
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=tetraslam&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://github.com/Tetraslam?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Tetraslam's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=tetraslam&show_icons=true&theme=algolia&count_private=true&exclude_repo=github-slideshow" />
 <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetraslam&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+
   </a>
  <!-- icons -->
 
