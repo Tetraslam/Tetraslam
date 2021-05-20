@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hello there! :wave::smiley:
 
 <!--Introduction -->
 I'm Tetraslam! I'm a **python developer** 🖥️ , looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software 💻 and tools to help people, and **building a community**. Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day 😃 .
