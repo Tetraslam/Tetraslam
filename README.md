@@ -4,7 +4,7 @@
 # Hello there! :wave::smiley:
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **CLI applications** and **desktop apps* . I like making **open-source** more accessible, creating software 💻 and tools to help people, and **building a community**. Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day 😃 .
+I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **CLI applications** and **desktop apps** . I like making **open-source** more accessible, creating software 💻 and tools to help people, and **building a community**. Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day 😃 .
 <br>
 <em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>hi, I'll be happy to do so!</b> :blush:</em>
 
