@@ -1,12 +1,12 @@
 ### Hello there 👋
 
 <!-- Greeting -->
-# Hello there! :wave::smiley:
+# Hello there! :wave:
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **CLI applications** and **desktop apps** . I like making **open-source** more accessible, creating software 💻 and tools to help people, and **building a community**. Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day 😃 .
+I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **tech demos** and **desktop apps** . I like making **open-source** more accessible, creating software 💻 and tools to help people. :star2: my repositories if you find my projects interesting!
 <br>
-<em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>hi, I'll be happy to do so!</b> :blush:</em>
+<em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>hi, I'll be happy to do so!</b></em>
 
 <!-- Your badges -->
 
@@ -22,18 +22,10 @@ I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **CLI
 ### 💼  Things that I'm currently working on: 
 * Learning API development with flask
 * Learning the `rich` library's intricacies
-* Looking forward to take my text adventure further in the future
-
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in quarantine:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
-
-* Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two days off a week. ) 
-* Read:newspaper: Dev and API docs everyday
-* Avoid spending too much time on League of Legends ☠️
+* Starting a non-profit organization to teach people about new technologies
 
 ### 📗 My hobbies:
 * Playing videogames (league of legends, minecraft, genshin impact) 🎮
-* Coding small tools
 * Reading 📖
 * Piano 🎹
 
@@ -57,8 +49,4 @@ Since the world is in quarantine:earth_asia:, and I’m having lots of spare tim
   
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
-
-- 🔭 I’m currently working on [SaberAPI](https://github.com/tetraslam/saberapi)
-- 💬 Ask me about the Bad Batch! I'm a diehard Star Wars fan and will never miss an opportunity to talk about SW content.
 - 📫 How to reach me: DM me on my [Reddit](https://reddit.com/u/TheWhiteRyder)!
-- 😄 Pronouns: he/him
