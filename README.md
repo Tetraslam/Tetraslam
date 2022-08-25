@@ -16,9 +16,6 @@ I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **tec
 
 [![Discord](https://img.shields.io/discord/844571818354671676?style=flat-square)](https://discord.gg/e5WeEVePHt)
 
-<!-- Working GIF -->
-<img src="https://i.imgur.com/vq1sZTo.png" alt="dev_object" align="right" width="500" height="210" />
-
 ### 💼  Things that I'm currently working on: 
 * Learning API development with flask
 * Learning the `rich` library's intricacies
