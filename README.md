@@ -25,7 +25,7 @@ I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **tec
 * Starting a non-profit organization to teach people about new technologies
 
 ### 📗 My hobbies:
-* Playing videogames (league of legends, minecraft, genshin impact) 🎮
+* Playing videogames (genshin, final fantasy, hollow knight) 🎮
 * Reading 📖
 * Piano 🎹
 
