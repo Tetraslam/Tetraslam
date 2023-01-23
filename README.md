@@ -4,27 +4,28 @@
 # Hello there! :wave:
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and C# developer** 🖥️, who likes making **tech demos** and **desktop apps** . I like making **open-source** more accessible, creating software 💻 and tools to help people. :star2: my repositories if you find my projects interesting!
+I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models** . I like making **open-source** more accessible, creating software 💻 and tools to help people. :star2: my repositories if you find my projects interesting!
 <br>
 <em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>hi, I'll be happy to do so!</b></em>
 
 <!-- Your badges -->
-
-[![Twitter](https://img.shields.io/twitter/follow/tetraslam?style=social)](https://twitter.com/tetraslam)
 
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/TheWhiteRyder?style=social)](https://reddit.com/u/TheWhiteRyder)
 
 [![Discord](https://img.shields.io/discord/844571818354671676?style=flat-square)](https://discord.gg/e5WeEVePHt)
 
 ### 💼  Things that I'm currently working on: 
-* Learning API development with flask
-* Learning the `rich` library's intricacies
-* Starting a non-profit organization to teach people about new technologies
+* Learning PyTorch
+* Creating web apps with React, Firebase and NextJS
 
 ### 📗 My hobbies:
-* Playing videogames (genshin, final fantasy, hollow knight) 🎮
+* Playing videogames (genshin, final fantasy, valorant, marvel's spider-man remastered, minecraft) 🎮
 * Reading 📖
 * Piano 🎹
+* Robotics 🤖
+* Scuba diving 🤿
+* IB 😿
+* [Blogging](https://medium.com/@tetraslam) ✍️
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
