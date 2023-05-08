@@ -4,7 +4,7 @@
 # Hello there! :wave:
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models** . I like making **open-source** more accessible, creating software and tools to help people. :star2: my repositories if you find my projects interesting!
+I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models**. Star :star2: my repositories if you find my projects interesting!
 <br>
 <em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>I'll be happy to do so!</b></em>
 
@@ -30,14 +30,14 @@ I'm Tetraslam! I'm a **python and javascript developer** who likes making **web 
 
 
 ### 💼  Things that I'm currently working on: 
-* Learning PyTorch
+* Learning Tensorflow
 * Creating web apps with React, Firebase and NextJS
 * Learning arduino (transitioning from LEGO Mindstorms) for the RoboCup Junior international round
 * Creating a metroidvania videogame in my school's coding club
 
 ### 📗 My hobbies:
-* Playing videogames (final fantasy, valorant, marvel's spider-man remastered, minecraft) 🎮
-* Reading 📖 (Stormlight Archive Book 4)
+* Playing videogames (honkai star rail, genshin impact, final fantasy, valorant, marvel's spider-man remastered, minecraft) 🎮
+* Reading 📖 (Mistborn Era 2)
 * Piano 🎹 (Arabesque No. 1, Debussy)
 * Robotics 🤖
 * Scuba diving 🤿
@@ -68,4 +68,4 @@ I'm Tetraslam! I'm a **python and javascript developer** who likes making **web 
   
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
-- 📫 How to reach me: DM me on my [Reddit](https://reddit.com/u/TheWhiteRyder)!
+- 📫 How to reach me: DM me on my [Instagram](https://instagram.com/skynovurm)!
