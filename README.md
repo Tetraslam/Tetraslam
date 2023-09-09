@@ -10,9 +10,7 @@ I'm Tetraslam! I'm a **python and javascript developer** who likes making **web 
 
 <!-- Your badges -->
 
-[![Discord](https://img.shields.io/badge/My&nbsp;Discord&nbsp;Server!-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e5WeEVePHt)
-
-[![Medium](https://img.shields.io/badge/Medium&nbsp;Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Tetraslam)
+[![Discord](https://img.shields.io/badge/My&nbsp;Discord&nbsp;Server!-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e5WeEVePHt), [![Medium](https://img.shields.io/badge/Medium&nbsp;Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Tetraslam)
 
 [![Spotify](https://img.shields.io/badge/My&nbsp;Playlist-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/63yXZkbWd3SydPVQcaECZN?si=42105eaec8eb4639)
 
