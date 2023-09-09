@@ -4,7 +4,7 @@
 # Hello there! :wave:
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models**. Star :star2: my repositories if you find my projects interesting!
+I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models**. Star my repos if you find my projects interesting!
 <br>
 <em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>I'll be happy to do so!</b></em>
 
@@ -26,21 +26,12 @@ I'm Tetraslam! I'm a **python and javascript developer** who likes making **web 
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/u/TheWhiteRyder)
 
-
-
-
-### 💼  Things that I'm currently working on: 
-* Learning Tensorflow
-* Creating web apps with React, Firebase and NextJS
-* Learning arduino (transitioning from LEGO Mindstorms) for the RoboCup Junior international round
-* Creating a metroidvania videogame in my school's coding club
-
-### 📗 My hobbies:
+### My hobbies:
 * Playing videogames (honkai star rail, genshin impact, final fantasy, valorant, marvel's spider-man remastered, minecraft) 🎮
-* Reading 📖 (Mistborn Era 2)
-* Piano 🎹 (Arabesque No. 1, Debussy)
-* Robotics 🤖
-* Scuba diving 🤿
+* Reading (Mistborn Era 2)
+* Piano
+* Robotics
+* Scuba diving
 * IB 😿
 * [Blogging](https://medium.com/@tetraslam) ✍️
 
