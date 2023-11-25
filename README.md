@@ -1,10 +1,10 @@
 ### Hello there 👋
 
 <!-- Greeting -->
-# Hello there! :wave:
+# Hello there!
 
 <!--Introduction -->
-I'm Tetraslam! I'm a **python and javascript developer** who likes making **web apps** and **ML models**. Star my repos if you find my projects interesting!
+I'm Tetraslam! I'm a **python and C++ developer** who likes making **web apps** and **ML models**. Star my repos if you find my projects interesting!
 <br>
 <em><b>I love getting new ideas for projects</b> so if you want to ask me to collaborate <b>I'll be happy to do so!</b></em>
 
