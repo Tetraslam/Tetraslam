@@ -1,4 +1,4 @@
-```python
+
 import random
 class Tetraslam:
     def __init__(self, name, username, location, bio, languages):
@@ -23,4 +23,4 @@ class Tetraslam:
         "I mostly listen to K-pop, J-rock, and shoegaze rock."
 ]
         return random.choice(fun_facts)
-```
+
