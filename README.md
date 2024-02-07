@@ -6,7 +6,7 @@
             self.username = 'Tetraslam'
             self.location = 'Bangalore'
             self.bio = '17 year old wannabe startup founder'
-            self.languages = ['python', 'javascript', 'go', 'dart']
+            self.languages = ['python', 'htmx', 'go', 'rust']
 
         def generate_intro(self):
             intro = f"Hello there! \n\nI'm {self.name}, a {self.bio} based in {self.location}.\n\n"
