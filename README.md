@@ -6,6 +6,7 @@ Some things about me:
 - My favorite author is Brandon Sanderson
 - I'm a worldbuilder in my free time
 - I mostly listen to J-rock, shoegaze, and K-pop
+- Read more about me [here!](https://blog.tetraslam.world/hello)
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,c,fastapi,fortran,figma,kubernetes,go,godot,htmx,latex,linux,md,neovim,nim,nix,notion,ocaml,postgres,py,pytorch,ros,sublime,supabase,tailwind,tensorflow,unity,vercel,vscode,wasm,zig)](https://skillicons.dev)
 
