@@ -7,7 +7,7 @@ Some things about me:
 - I'm a worldbuilder in my free time
 - I mostly listen to J-rock, shoegaze, and K-pop
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,arch,arduino,bash,blender,c,fastapi,flask,fortran,go,godot,htmx,latex,linux,md,neovim,nim,nix,notion,ocaml,postgres,py,pytorch,ros,sublime,supabase,tailwind,tensorflow,unity,vercel,vscode,wasm,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,c,fastapi,fortran,figma,kubernetes,go,godot,htmx,latex,linux,md,neovim,nim,nix,notion,ocaml,postgres,py,pytorch,ros,sublime,supabase,tailwind,tensorflow,unity,vercel,vscode,wasm,zig)](https://skillicons.dev)
 
 Contact me:
 
