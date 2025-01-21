@@ -1,4 +1,4 @@
-Hi! I'm Shresht, a CS + Linguistics student @[Northeastern University, Boston](https://northeastern.edu).
+Hi! I'm Shresht, a CS + Linguistics student @[Northeastern University, Boston](https://northeastern.edu), ML and digital twin researcher at the [MIT Media Lab's Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/overview/), and founder of an applied math startup called [Sapientia Research](https://sapientiaresearch.org).
 
 Some things about me:
 - I've traveled to over 30 countries
